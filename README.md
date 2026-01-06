@@ -1,1 +1,1 @@
-# worldcu-p-database
+# worldcup-database
